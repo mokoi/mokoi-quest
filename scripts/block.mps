@@ -34,6 +34,7 @@ public Init(...)
 	_type_ = TYPE_PUSHABLE;
 
 	obj = EntityGetNumber("object-id");
+	ObjectInfo(obj, dw, dh);
 	EntityGetPosition(_x_,_y_, _z_);
 	UpdateDisplayPosition();
 	StorePosition();
