@@ -1,0 +1,4 @@
+<entity>
+	<option name="Weapon" value="weapon_test" type="entity|weapon_" />
+	<option name="force-global" value="true" type="hidden" />
+</entity>

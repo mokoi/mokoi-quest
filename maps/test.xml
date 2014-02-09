@@ -1,0 +1,21 @@
+<map xmlns="http://mokoi.info/projects/mokoi">
+<settings>
+	<dimensions width="1" height="1" />
+	<color red="127" blue="127" green="127" mode="0" />
+	<option name="music" value="" type="music" />
+	<option name="name" value="" type="" />
+</settings>
+<object value="leatherarmor.png:42" type="sprite">
+	<position x="320" y="95" w="32" h="32" z="0" l="0" r="0" f="0"/>
+	<color red="255" blue="255" green="255" alpha="255" />
+	<setting key="Weapon" value="" />
+	<entity value="link" language="mps" global="true"/>
+</object>
+<object value="tilesheet.png:1" type="sprite">
+	<position x="128" y="47" w="32" h="32" z="0" l="0" r="0" f="0"/>
+	<color red="255" blue="255" green="255" alpha="255" />
+	<setting key="force-global" value="true" type="hidden"/>
+	<setting key="Weapon" value="weapon_test" type=""/>
+	<entity value="link" language="mps" global="true"/>
+</object>
+</map>

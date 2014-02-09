@@ -1,0 +1,141 @@
+<sheet xmlns="http://mokoi.info/format/sheet">
+	<sprite name="1" mask="0">
+		<position x="0" y="0" w="32" h="32" />
+	</sprite>
+	<sprite name="2" mask="0">
+		<position x="32" y="0" w="32" h="32" />
+	</sprite>
+	<sprite name="3" mask="0">
+		<position x="64" y="0" w="32" h="32" />
+	</sprite>
+	<sprite name="4" mask="0">
+		<position x="96" y="0" w="32" h="32" />
+	</sprite>
+	<sprite name="5" mask="0">
+		<position x="128" y="0" w="32" h="32" />
+	</sprite>
+	<sprite name="6" mask="0">
+		<position x="0" y="32" w="32" h="32" />
+	</sprite>
+	<sprite name="7" mask="0">
+		<position x="32" y="32" w="32" h="32" />
+	</sprite>
+	<sprite name="8" mask="0">
+		<position x="64" y="32" w="32" h="32" />
+	</sprite>
+	<sprite name="9" mask="0">
+		<position x="96" y="32" w="32" h="32" />
+	</sprite>
+	<sprite name="11" mask="0">
+		<position x="0" y="64" w="32" h="32" />
+	</sprite>
+	<sprite name="12" mask="0">
+		<position x="32" y="64" w="32" h="32" />
+	</sprite>
+	<sprite name="13" mask="0">
+		<position x="64" y="64" w="32" h="32" />
+	</sprite>
+	<sprite name="15" mask="0">
+		<position x="128" y="64" w="32" h="32" />
+	</sprite>
+	<sprite name="16" mask="0">
+		<position x="0" y="96" w="32" h="32" />
+	</sprite>
+	<sprite name="17" mask="0">
+		<position x="32" y="96" w="32" h="32" />
+	</sprite>
+	<sprite name="18" mask="0">
+		<position x="64" y="96" w="32" h="32" />
+	</sprite>
+	<sprite name="19" mask="0">
+		<position x="96" y="96" w="32" h="32" />
+	</sprite>
+	<sprite name="20" mask="0">
+		<position x="128" y="96" w="32" h="32" />
+	</sprite>
+	<sprite name="21" mask="0">
+		<position x="0" y="128" w="32" h="32" />
+	</sprite>
+	<sprite name="22" mask="0">
+		<position x="32" y="128" w="32" h="32" />
+	</sprite>
+	<sprite name="23" mask="0">
+		<position x="64" y="128" w="32" h="32" />
+	</sprite>
+	<sprite name="24" mask="0">
+		<position x="96" y="128" w="32" h="32" />
+	</sprite>
+	<sprite name="25" mask="0">
+		<position x="128" y="128" w="32" h="32" />
+	</sprite>
+	<sprite name="26" mask="0">
+		<position x="0" y="160" w="32" h="32" />
+	</sprite>
+	<sprite name="27" mask="0">
+		<position x="32" y="160" w="32" h="32" />
+	</sprite>
+	<sprite name="28" mask="0">
+		<position x="64" y="160" w="32" h="32" />
+	</sprite>
+	<sprite name="29" mask="0">
+		<position x="96" y="160" w="32" h="32" />
+	</sprite>
+	<sprite name="30" mask="0">
+		<position x="128" y="160" w="32" h="32" />
+	</sprite>
+	<sprite name="31" mask="0">
+		<position x="0" y="192" w="32" h="32" />
+	</sprite>
+	<sprite name="32" mask="0">
+		<position x="32" y="192" w="32" h="32" />
+	</sprite>
+	<sprite name="33" mask="0">
+		<position x="64" y="192" w="32" h="32" />
+	</sprite>
+	<sprite name="34" mask="0">
+		<position x="96" y="192" w="32" h="32" />
+	</sprite>
+	<sprite name="35" mask="0">
+		<position x="128" y="192" w="32" h="32" />
+	</sprite>
+	<sprite name="36" mask="0">
+		<position x="0" y="224" w="32" h="32" />
+	</sprite>
+	<sprite name="37" mask="0">
+		<position x="32" y="224" w="32" h="32" />
+	</sprite>
+	<sprite name="38" mask="0">
+		<position x="64" y="224" w="32" h="32" />
+	</sprite>
+	<sprite name="39" mask="0">
+		<position x="96" y="224" w="32" h="32" />
+	</sprite>
+	<sprite name="40" mask="0">
+		<position x="128" y="224" w="32" h="32" />
+	</sprite>
+	<sprite name="41" mask="0">
+		<position x="0" y="256" w="32" h="32" />
+	</sprite>
+	<sprite name="42" mask="0">
+		<position x="32" y="256" w="32" h="32" />
+	</sprite>
+	<sprite name="43" mask="0">
+		<position x="64" y="256" w="32" h="32" />
+	</sprite>
+	<sprite name="44" mask="0">
+		<position x="96" y="256" w="32" h="32" />
+	</sprite>
+	<sprite name="45" mask="0">
+		<position x="128" y="256" w="32" h="32" />
+	</sprite>
+	<sprite name="new_0" mask="0" hidden="hidden">
+		<position x="0" y="64" w="32" h="32" />
+	</sprite>
+	<sprite name="new_1" mask="0" hidden="hidden">
+		<position x="32" y="64" w="32" h="32" />
+	</sprite>
+	<animation name="new" mask="0">
+		<frame sprite="new_0" x="0" y="0" ms="330"/>
+		<frame sprite="new_1" x="0" y="0" ms="330"/>
+	</animation>
+</sheet>

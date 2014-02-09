@@ -1,23 +1,9 @@
+// To ease development, <map_default> may include a Init Function.
+// If You wish to use your own uncomment the next line
+//#define HASINITFUNCTION 1
 #tryinclude <map_default>
-
-new timer = 100;
-forward public CreateItem()
+#tryinclude <standard>
 main()
 {
-	
-
-}
-
-
-public CreateItem()
-{
-	//EntityCreate("attack_flamethrower1", "*", 100.0, 5.0, 4000, CURRENT_MAP, _, "d", 45.0 );
-	EntityCreate("dropitem_arrow", "*", 100.0, 200.0, 4, CURRENT_MAP, _, "n", 5 );
-	/*
-	ObjectCreate( "deathanim01.png:animasd23",SPRITE, 10, 10, 5, 120, 120, RED );
-	ObjectCreate( "deathanim01.png:anim", SPRITE, 20, 20, 5, 120, 120, RED );
-	ObjectCreate( "deathanim01.png:anim", SPRITE, 20, 32, 5, 0, 0, RED );
-	ObjectCreate( "deathanim01.png:anim", SPRITE, 220, 25, 5, 0, 0, RED );
-	ObjectCreate( "deathanim01.png:anim", SPRITE, 20, 277, 5, 0, 0, RED );
-	*/
+		//Your Code
 }

@@ -1,6 +1,7 @@
 <entity>
-	<option name="grid" value="-1" />
-	<option name="target" value="" />
-	<option name="locktype" value="0" />
-	<option name="opened" value="1" />
+	<option name="dungeon-id" value="" type="" />
+	<option name="target" value="" type="mapentity" />
+	<option name="grid" value="-1" type="" />
+	<option name="section" value="" type="section" />
+	<option name="target-map" value="" type="map" />
 </entity>
